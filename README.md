@@ -1,2 +1,2 @@
 # Sporulation-T-Test
-A repository for performing t-tests to compare sporulation efficiency between wild-type and mutant Bacillus subtilis strains.
+An R script for performing two-sample t-tests to compare sporulation efficiency between wild-type and mutant Bacillus subtilis strains.
