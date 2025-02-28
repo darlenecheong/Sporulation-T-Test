@@ -2,6 +2,10 @@
 An R script for performing two-sample t-tests to compare sporulation efficiency between wild-type and mutant *Bacillus subtilis* strains.
 <br><br>
 
+## R Script
+Please view the R script 🔗[here](t-test.R).
+<br><br>
+
 ## Context
 Bacteria, fungi, and protists form metabolically dormant spores that are highly resilient to harsh conditions. Pathogenic bacteria like *Clostridioides difficile* and *Bacillus anthracis* produce antimicrobial- and disinfectant-resistant spores, which pose significant challenges in clinical settings. This analysis, part of my honors thesis, aimed to investigate the role of specific proteins in bacterial sporulation efficiency. We compared the wild-type strain PY79, a reference strain of *Bacillus subtilis* (a model organism for studying sporulation), to three mutant strains, with the Δ*prkA* mutant being the most significant, as it lacks the PrkA protein, which has been implicated in the sporulation process. Using R and performing Welch’s t-test, we compared sporulation efficiencies across multiple experiments. The results provided valuable insights into how specific genetic modifications affect sporulation efficiency, contributing to our understanding of bacterial resistance mechanisms and informing strategies to combat antimicrobial-resistant spores in clinical environments.
 
