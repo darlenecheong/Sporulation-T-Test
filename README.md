@@ -4,6 +4,7 @@ An R script for performing two-sample t-tests to compare sporulation efficiency 
 
 ## R Script
 Please view the R script 🔗[here](t-test.R).
+- *Data can be viewed [here](sporulation_data.csv)*
 <br><br>
 
 ## Context
